@@ -9,4 +9,7 @@ public class Command {
     public static final String command1 = "git add";
     //将暂存区的数据提交到本地仓库
     public static final String command2 = "git commit";
+
+    //将本地仓库推送到远程仓库
+    public static final String command3 = "git push";
 }
