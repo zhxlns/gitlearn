@@ -5,7 +5,7 @@ package baseCommand;
  * @date 2019/8/29
  */
 public class Command {
-    //将工作区的目录初始化为git管理的项目
+    //将工作区的目录初始化为git管理的项目  第一行这里模拟分支上的修改
     public static final String command0 = "git init";
     //将工作区的修改添加到暂存区
     public static final String command1 = "git add";
