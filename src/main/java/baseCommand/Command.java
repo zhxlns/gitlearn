@@ -17,5 +17,5 @@ public class Command {
     //是一个具有多种用法的命令，实际上是用版本库中的文件替代工作区的文件
     public static final String command4 = "git checkout";
 
-    //git对于分支有很强大的功能支持
+    //git对于分支有很强大的功能支持1
 }
