@@ -18,4 +18,6 @@ public class Command {
     public static final String command4 = "git checkout";
 
     //git对于分支有很强大的功能支持1
+    //从git上checkout下来生成新项目
+    //修改后提交
 }
